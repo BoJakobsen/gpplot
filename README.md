@@ -1,5 +1,5 @@
 # gpplot
 Matlab package for easy making gnuplot figures
 
-[version 0.1](v0.1.zip)
+[version 0.1](releases/tag/v0.1)
 

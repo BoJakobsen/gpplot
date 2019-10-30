@@ -1,2 +1,2 @@
 # gpplot
-Matlab package for easy making gnuplot 
+Matlab package for easy making gnuplot figures
